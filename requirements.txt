@@ -83,7 +83,6 @@ bokeh==2.4.3
 pyjwt==2.4.0
 sortedcontainers==2.4.0
 convertdate==2.3.2
-mkl-service==2.3.0
 werkzeug==2.2.1
 zict==2.2.0
 jsonpickle==2.2.0
